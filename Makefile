@@ -1,4 +1,4 @@
-pipins:
+install:
 	pip install -r requirements.txt
-run: pipins
+run:
 	flask run
